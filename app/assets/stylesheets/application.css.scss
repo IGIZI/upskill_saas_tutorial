@@ -17,6 +17,8 @@
  @import 'bootstrap-sprockets';
 @import 'bootstrap';
  
+ 
+ // Titles etc.
 h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
     
@@ -40,19 +42,13 @@ h1, h2, h3 {
   padding-bottom: 100px;
 }
 
-.navbar-default .navbar-brand {
-  color: white;
-}
-.navbar-default .navbar-brand:hover {
-  color: white;
-  opacity: 0.75;
-}
+// Navbar styles
 
+.navbar-default .navbar-brand, 
 .navbar-default .navbar-nav li a {
   color: white;
-}
-
-.navbar-default .navbar-nav li a:hover {
-  color: white;
-  opacity: 0.75;
+  &:hover{
+    color: white;
+    opacity: 0.75;
+  }
 }
