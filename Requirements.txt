@@ -1,0 +1,42 @@
+Memberships
+
+* (Not logged in) User should see Basic plan Sign up link
+* (Not logged in) User should see Pro plan Sign up link
+* Basic plan link should point to normal registeration form
+* Pro plan link should point to custom registeration form
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****AFTER TUTORIAL SHAIT!*****
+
+* Joukkueen luonti sivu
+* Joukkue sivu
+ - Joukkueen etusivu ( Laji, Kotipaikka, Jäsenmäärä, Esittely, Sarjataso. )
+ - Pelaajat
+ - Tulevat vuorot / Pelit
+ - Keskustelu
+* Kirjautuminen Basic tai Pro ( Facebook, Google, etc. )
+* "Ilmoittaudu turnaukseen" Harraste liigojen turnaukset ja niiden tilastointi. (Palkintoja?)
+
+
+* Tietoja meistä / FAQ
+* GDPR
+* Kuvalähteet
