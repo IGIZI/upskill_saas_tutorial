@@ -35,13 +35,15 @@ token. Rails should save customer token and user information to our database.
 
 ****AFTER TUTORIAL SHAIT!*****
 
+* Etusivu
+ - Lajikohtainen selaus, jalkapallo, jääkiekko yms?
 * Joukkueen luonti sivu
 * Joukkue sivu
  - Joukkueen etusivu ( Laji, Kotipaikka, Jäsenmäärä, Esittely, Sarjataso. )
  - Pelaajat
  - Tulevat vuorot / Pelit
  - Keskustelu
-* Kirjautuminen Basic tai Pro ( Facebook, Google, etc. )
+* Kirjautuminen Basic tai Pro (Höntsä, Amateur, Professional?) ( Facebook, Google, etc. )
 * "Ilmoittaudu turnaukseen" Harraste liigojen turnaukset ja niiden tilastointi. (Palkintoja?)
 * Turnauksiin sisään EHKÄ Pro jäsenyydellä (Jokainen turnaukseen osallistuja, oltava pro member)
  - Tuomarointi ja laillisuus?
