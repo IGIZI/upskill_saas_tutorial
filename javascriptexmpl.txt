@@ -1,0 +1,21 @@
+
+
+var banana = 2;
+var apple = 2;
+var error = ("");
+
+if(banana == 1){
+  error = false; }
+
+else{ error = true; 
+
+}
+
+if(error == true){
+document.write("Banana is not equal to 1");
+}
+else{ 
+document.write("Banana is equal to 1"); }
+
+
+
