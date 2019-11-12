@@ -40,7 +40,7 @@ User profiles
 
 
 ****AFTER TUTORIAL SHAIT!*****
-
+______________________PHASE 1___________________________________________________
 * Etusivu
  - Lajikohtainen selaus, jalkapallo, jääkiekko yms?
 * Joukkueen luonti sivu
@@ -49,16 +49,24 @@ User profiles
  - Pelaajat
  - Tulevat vuorot / Pelit
  - Keskustelu
-* Kirjautuminen Basic tai Pro (Höntsä, Amateur, Professional?) ( Facebook, Google, etc. )
-* "Ilmoittaudu turnaukseen" Harraste liigojen turnaukset ja niiden tilastointi. (Palkintoja?)
-* Turnauksiin sisään EHKÄ Pro jäsenyydellä (Jokainen turnaukseen osallistuja, oltava pro member)
+ 
+_____________________PHASE 2____________________________________________________
+ 
+ 
+* //// Kirjautuminen Basic tai Pro (Höntsä, Amateur, Professional?) ( Facebook, Google, etc. )
+* //// "Ilmoittaudu turnaukseen" Harraste liigojen turnaukset ja niiden tilastointi. (Palkintoja?)
+* //// Turnauksiin sisään EHKÄ Pro jäsenyydellä (Jokainen turnaukseen osallistuja, oltava pro member)
  - Tuomarointi ja laillisuus?
  - Todennus
 
+
+____________________________MUST BE_____________________________________________
 * Tietoja meistä / FAQ
 * GDPR
 * Kuvalähteet
 
+
+//// EXTRA, EHKÄ, KATSOTAAN JOSKUS!
 
 
 

@@ -6,7 +6,14 @@ class ProfilesController < ApplicationController
     # Render blank profile details form
     @profile = Profile.new
   end
-
+  
+  # GET to /users/:user_id/profile/edit
+  def edit
+    @user = User.find( params[:user_id] )
+    @profile = @user.profile
+  end
+  
+  
 
 # POST to /users/:user_id/profile
 def create
