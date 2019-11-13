@@ -88,3 +88,19 @@ module UsersHelper
    
     
 end
+
+###############LOCK DOWN PAGES!#################
+before_action :authenticate_user!
+
+
+####Function for lock pages for logged in users####
+
+# Call before_action and thing/name to call
+before_action :only_current_user
+
+# Define before_action's name. Define that user = the user that is current_user
+# Redirect to home page if user is not the one that's defined on parameters!
+def only_current_user
+      @user = User.find(params[:user_id] )
+      redirect_to(root_url) unless @user == current_user
+    end
